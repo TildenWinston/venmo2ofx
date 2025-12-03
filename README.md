@@ -1,3 +1,5 @@
+Ran using github codespaces for in browser execution. No local python env needed.
+
 # venmo2ofx
 
 Bookkeeping with Venmo is challenging as you basically need to treat it as another bank account to reconcile if you need to track transactions, such as if you are using Venmo to buy or sell for business-related purposes.  Venmo allows you to download monthly CSV [statements](https://account.venmo.com/statement) one at a time and uses an proprietary format that is difficult to import into bookkeeping software.  Enter *venmo2ofx*, a utility to convert one or more Venmo CSV files into the widely-supported OFX/QFX format.
